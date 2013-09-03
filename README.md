@@ -16,6 +16,8 @@ The default admin user's password is 'password' and the other password of user i
 
 The default user interface of system is in english, if switch to chinese, please click the top-right "Preferences" -> Language->  set the Language to "中文(中国)" .
 
+More info: http://sevenuc.com
+
 ========
 Agilo 是一个灵活的，基于Web的敏捷管理工具，系统平滑地支持精益看板和Scrum过程。系统基于知名票务跟踪系统 - Trac而开发。 Trac的优秀设计，帮助您建立高质量的软件开发基础设施并受益于敏捷过程。开发团队可以很容易地与客户在本地或海外进行高效率协作。
 
@@ -27,6 +29,7 @@ git clone https://github.com/chengdu/agilo-cn.git
 
 安装完成后，请浏览http://127.0.0.1/trac, 并稍等片刻，第一次运行时它可能需要大约两分钟来初始化运行时环境，所以请耐心等待。默认的admin用户的口令是'password', 其他用户的密码与用户名相同。 系统缺省为英文界面, 要切换到中文界面, 请通过界面右上方的"Preferences"－>Language->将Language设置为"中文(中国)"即可。
 
+更多信息,请参考: http://sevenuc.com
 
 
 
