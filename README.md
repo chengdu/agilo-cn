@@ -25,11 +25,7 @@ http://code.google.com/p/msysgit/
 下载指令：
 git clone https://github.com/chengdu/agilo-cn.git
 
-安装完成后，请浏览http://127.0.0.1/trac，并稍等片刻，第一次运行时它可能需要大约两分钟来初始化运行时环境，所以请耐心等待。
-
-默认的admin用户的口令是'password', 其他用户的密码与用户名相同。
-
-系统缺省为英文界面, 要切换到中文界面, 请通过界面右上方的"Preferences"－>Language->将Language设置为"中文(中国)"即可。
+安装完成后，请浏览http://127.0.0.1/trac, 并稍等片刻，第一次运行时它可能需要大约两分钟来初始化运行时环境，所以请耐心等待。默认的admin用户的口令是'password', 其他用户的密码与用户名相同。 系统缺省为英文界面, 要切换到中文界面, 请通过界面右上方的"Preferences"－>Language->将Language设置为"中文(中国)"即可。
 
 
 
