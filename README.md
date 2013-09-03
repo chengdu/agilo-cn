@@ -12,6 +12,6 @@ git clone https://github.com/chengdu/agilo-cn.git
 
 After completed the installation, please navigate to http://127.0.0.1/trac and wait a while, it needs about two minutes to initialize the run time environment, so please be patient.
 
-The default admin user's password is 'password' and the other password of user is same as the username.
+The default admin user's password is 'password' and the password of other user is same as the username.
 
 
