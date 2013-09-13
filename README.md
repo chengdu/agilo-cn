@@ -18,8 +18,9 @@ git clone https://github.com/chengdu/agilo-cn.git
 3)  Start Your Browser ( Chrome or FireFox )
 
 FireFox Download Link: 
-http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/22.0/win32/zh-CN/Firefox%20Setup%2022.0.exe
-http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/22.0/win32/zh-TW/Firefox%20Setup%2022.0.exe
+
+http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/22.0/win32/zh-CN/Firefox Setup 22.0.exe
+http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/22.0/win32/zh-TW/Firefox Setup 22.0.exe
 
 After completed the installation, please navigate to http://127.0.0.1/trac and wait a while, it needs about two minutes to initialize the run time environment at first time, so please be patient.
 
@@ -44,9 +45,11 @@ git clone https://github.com/chengdu/agilo-cn.git
 
 3)  启动浏览器 ( Chrome 或 FireFox )
 
-FireFox 下载链接: 
-http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/22.0/win32/zh-CN/Firefox%20Setup%2022.0.exe
-http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/22.0/win32/zh-TW/Firefox%20Setup%2022.0.exe
+FireFox 下载链接:
+
+http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/22.0/win32/zh-CN/Firefox Setup 22.0.exe
+http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/22.0/win32/zh-TW/Firefox Setup 22.0.exe
+
 
 安装完成后，请浏览http://127.0.0.1/trac, 并稍等片刻，第一次运行时它可能需要大约两分钟来初始化运行时环境，所以请耐心等待。默认的admin用户的口令是'password', 其他用户的密码与用户名相同。 系统缺省为英文界面, 要切换到中文界面, 请通过界面右上方的"Preferences"－>Language->将Language设置为"中文(中国)"即可。
 
