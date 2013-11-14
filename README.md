@@ -1,29 +1,25 @@
 agilo-cn
 ========
 
-Agilo 是一个灵活的，基于Web的敏捷管理工具，系统平滑地支持精益看板和Scrum过程。系统基于知名票务跟踪系统 - Trac而开发。 Trac的优秀设计，帮助您建立高质量的软件开发基础设施并受益于敏捷过程。开发团队可以很容易地与客户在本地或海外进行高效率协作。
+Agilo 是一個靈活的，基於Web的敏捷管理工具，系統平滑地支持精益看板和Scrum過程。系統基於知名票務跟踪系統- Trac而開發。 Trac的優秀設計，幫助您建立高質量的軟件開發基礎設施並受益於敏捷過程。開發團隊可以很容易地與客戶在本地或海外進行高效率協作。
 
-1)  安装 Git 
+1) 安裝 Git
 
-Git的Windows版本下载链接：
-http://code.google.com/p/msysgit/
+Git的Windows版本下載鏈接： http://code.google.com/p/msysgit/
 
-下载指令：
-git clone https://github.com/chengdu/agilo-cn.git
+下載指令： git clone https://github.com/chengdu/agilo-cn.git
 
-2)  运行 Agilo-zhCN-0.8.6.exe
+2) 運行 Agilo-zhCN-0.8.6.exe
 
-3)  启动浏览器 ( Chrome 或 FireFox )
+3) 啟動瀏覽器 ( Chrome 或 FireFox )
 
-FireFox 下载链接:
+FireFox 下載鏈接:
 
-http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/22.0/win32/zh-CN/Firefox Setup 22.0.exe
-http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/22.0/win32/zh-TW/Firefox Setup 22.0.exe
+http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/22.0/win32/zh-CN/Firefox Setup 22.0.exe http://ftp.mozilla.org/pub/mozilla.org/firefox /releases/22.0/win32/zh-TW/Firefox Setup 22.0.exe
 
+安裝完成後，請瀏覽http://127.0.0.1/trac, 並稍等片刻，第一次運行時它可能需要大約兩分鐘來初始化運行時環境，所以請耐心等待。默認的admin用戶的口令是'password', 其他用戶的密碼與用戶名相同。系統缺省為英文界面, 要切換到中文界面, 請通過界面右上方的"Preferences"－>Language->將Language設置為"中文(中國)"即可。
 
-安装完成后，请浏览http://127.0.0.1/trac, 并稍等片刻，第一次运行时它可能需要大约两分钟来初始化运行时环境，所以请耐心等待。默认的admin用户的口令是'password', 其他用户的密码与用户名相同。 系统缺省为英文界面, 要切换到中文界面, 请通过界面右上方的"Preferences"－>Language->将Language设置为"中文(中国)"即可。
-
-更多信息,请参考: http://sevenuc.com
+更多信息,請參考: http://sevenuc.com
 
 ========
 
@@ -51,7 +47,7 @@ After completed the installation, please navigate to http://127.0.0.1/trac and w
 
 The default admin user's password is 'password' and the other password of user is same as the username.
 
-The default user interface of system is in english, if switch to chinese, please click the top-right "Preferences" -> Language->  set the Language to "中文(中国)" .
+The default user interface of system is in english, if switch to chinese, please click the top-right "Preferences" -> Language->  set the Language to "中文(中國)" .
 
 More info: http://sevenuc.com
 
